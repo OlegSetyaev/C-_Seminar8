@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C#_Seminar8\DZ\bin\Debug\net6.0\DZ.exe
+C:\Users\Admin\Desktop\C#_Seminar8\DZ\bin\Debug\net6.0\DZ.deps.json
+C:\Users\Admin\Desktop\C#_Seminar8\DZ\bin\Debug\net6.0\DZ.runtimeconfig.json
+C:\Users\Admin\Desktop\C#_Seminar8\DZ\bin\Debug\net6.0\DZ.dll
+C:\Users\Admin\Desktop\C#_Seminar8\DZ\bin\Debug\net6.0\DZ.pdb
+C:\Users\Admin\Desktop\C#_Seminar8\DZ\obj\Debug\net6.0\DZ.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#_Seminar8\DZ\obj\Debug\net6.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#_Seminar8\DZ\obj\Debug\net6.0\DZ.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#_Seminar8\DZ\obj\Debug\net6.0\DZ.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#_Seminar8\DZ\obj\Debug\net6.0\DZ.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#_Seminar8\DZ\obj\Debug\net6.0\DZ.dll
+C:\Users\Admin\Desktop\C#_Seminar8\DZ\obj\Debug\net6.0\refint\DZ.dll
+C:\Users\Admin\Desktop\C#_Seminar8\DZ\obj\Debug\net6.0\DZ.pdb
+C:\Users\Admin\Desktop\C#_Seminar8\DZ\obj\Debug\net6.0\DZ.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#_Seminar8\DZ\obj\Debug\net6.0\ref\DZ.dll
